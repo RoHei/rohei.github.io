@@ -13,4 +13,3 @@ My research is at the intersection of distributed systems and machine learning.
 - **Machine Learning:** Zero-Shot learning, Graph Neural Networks
 
 {% include_relative _includes/publications.md %}
-#{% include_relative _includes/services.md %}
