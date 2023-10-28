@@ -4,20 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at DHBW Mannheim and TU Darmstadt, where I joined the [Data and AI Systems Lab](https://www.informatik.tu-darmstadt.de/systems/systems_tuda/dai/index.en.jsp)  in late 2020.
+My research is at the intersection of distributed systems and machine learning.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Data Systems:** Distributed Stream Processing (Storm, Flink), Databases
+- **Machine Learning:** Zero-Shot learning, Graph Neural Networks
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+#{% include_relative _includes/services.md %}
