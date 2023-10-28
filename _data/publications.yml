@@ -7,6 +7,6 @@ main:
     pdf: https://dl.acm.org/doi/abs/10.1145/3524860.3539639
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/debs_paper.png
     notes: Conference Presentation
 
