@@ -3,7 +3,7 @@ main:
   - title: "COSTREAM: Learned Cost Models for Operator Placement in Edge-Cloud Environments"
     authors: <strong>Roman Heinrich</strong>, Carsten Binnig, Harald Kornmayer, Manisha Luthra
     conference_short: ICDE
-    conference: 40th {IEEE} International Conference on Data Engineering, {ICDE} 2024, Utrecht, Netherlands, May 13 - 17, 2024
+    conference: 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, Netherlands, May 13 - 17, 2024
     pdf: https://arxiv.org/abs/2403.08444
     code: https://github.com/DataManagementLab/costream-public
     image: ./assets/img/costream_paper.png
@@ -12,7 +12,7 @@ main:
   - title: "ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing"
     authors: Pratyush Agnihotri, Boris Koldehofe, Paul Stiegele, <strong>Roman Heinrich</strong>, Carsten Binnig, Manisha Luthra
     conference_short: ICDE
-    conference: 40th {IEEE} International Conference on Data Engineering, {ICDE} 2024, Utrecht, Netherlands, May 13 - 17, 2024
+    conference: 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, Netherlands, May 13 - 17, 2024
     pdf: https://www.kom.tu-darmstadt.de/publications/AKSHBL24
     code: https://github.com/pratyushagnihotri/ZeroTune
     image: ./assets/img/zerotune_paper.jpg
@@ -21,7 +21,7 @@ main:
   - title: Zero-Shot Cost Estimation for Distributed Stream Processing
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Harald Kornmayer, Carsten Binnig
     conference_short: DEBS
-    conference: 16th {ACM} International Conference on Distributed and Event-based Systems, {DEBS} 2022, Copenhagen, Denmark, June 27 - 30, 2022
+    conference: 16th ACM International Conference on Distributed and Event-based Systems, DEBS 2022, Copenhagen, Denmark, June 27 - 30, 2022
     pdf: https://dl.acm.org/doi/abs/10.1145/3524860.3539639
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt

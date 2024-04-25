@@ -9,9 +9,11 @@ where I joined the [Data and AI Systems Lab](https://www.informatik.tu-darmstadt
 I have a Master's degree in [Intelligent Systems](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/studium/master/MA-Intelligente-Systeme/)
 from [Bielefeld University](https://www.uni-bielefeld.de) and a Bachelor's degree in electrical engineering from [TH OWL](https://www.th-owl.de).
 
+
 ## Research Interests
 My research lies in the intersection of centralized and distributed data systems and machine learning.
 - **Data Systems:** Distributed Stream Processing Systems (Storm, Flink), Database Systems, Cost Estimation, Performance Prediction
 - **Machine Learning:** Zero-Shot learning, Graph Neural Networks
+
 
 {% include_relative _includes/publications.md %}
