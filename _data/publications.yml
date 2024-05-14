@@ -24,8 +24,7 @@ main:
     conference_short: DEBS
     conference: 16th ACM International Conference on Distributed and Event-based Systems, DEBS 2022, Copenhagen, Denmark, June 27 - 30, 2022
     pdf: https://dl.acm.org/doi/abs/10.1145/3524860.3539639
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/debs_paper.png
+    slides: ./assets/files/Zero-Shot Cost Models for DSPS.pdf
     notes: Conference Presentation
 
