@@ -7,6 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2403.08444
     code: https://github.com/DataManagementLab/costream-public
     image: ./assets/img/costream_paper.png
+    slides: ./assets/files/COSTREAM_Talk.pdf
     notes: Conference Presentation
 
   - title: "ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing"
