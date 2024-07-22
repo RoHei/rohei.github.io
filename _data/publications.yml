@@ -5,6 +5,7 @@ main:
     conference: Proceedings of the the Performance Evaluation and Benchmarking, 16th TPC Technology Conference, Springer
     pdf: https://www.kom.tu-darmstadt.de/assets/522b98ed-1c90-4c9f-a14a-c4274aeb78cc/AKHBL24.pdf
     code: https://github.com/pratyushagnihotri/PDSPBench
+    image: ./assets/img/pdspbench_logo.png
     notes: Conference Presentation
 
   - title: "COSTREAM: Learned Cost Models for Operator Placement in Edge-Cloud Environments"
