@@ -12,7 +12,7 @@ main:
     authors: <strong>Roman Heinrich</strong>, Carsten Binnig, Harald Kornmayer, Manisha Luthra
     conference_short: ICDE
     conference: 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, Netherlands, May 13 - 17, 2024
-    pdf: https://arxiv.org/abs/2403.08444
+    pdf: https://ieeexplore.ieee.org/document/10598052
     code: https://github.com/DataManagementLab/costream-public
     image: ./assets/img/costream_paper.png
     slides: ./assets/files/COSTREAM_Talk.pdf
@@ -22,7 +22,7 @@ main:
     authors: Pratyush Agnihotri, Boris Koldehofe, Paul Stiegele, <strong>Roman Heinrich</strong>, Carsten Binnig, Manisha Luthra
     conference_short: ICDE
     conference: 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, Netherlands, May 13 - 17, 2024
-    pdf: https://www.kom.tu-darmstadt.de/publications/AKSHBL24
+    pdf: https://ieeexplore.ieee.org/document/10598043/
     code: https://github.com/pratyushagnihotri/ZeroTune
     image: ./assets/img/zerotune_paper.jpg
     notes: Conference Presentation
