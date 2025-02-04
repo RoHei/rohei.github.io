@@ -2,7 +2,7 @@ main:
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes WehrsteinHarald Kornmayer, Carsten Binnig
     conference_short: SIGMOD
-    conference: Proceedings of the ACM on Management of Data (PACMMOD
+    conference: Proceedings of the ACM on Management of Data (PACMMOD)
     pdf: https://arxiv.org/pdf/2502.01229
     code: https://github.com/DataManagementLab/lcm-eval
     image: ./assets/img/lcm_eval.png
