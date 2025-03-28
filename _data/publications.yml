@@ -1,47 +1,55 @@
 main:
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
-    authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes WehrsteinHarald Kornmayer, Carsten Binnig
-    conference_short: SIGMOD
+    authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
+    conference_short: SIGMOD '25
     conference: Proceedings of the ACM on Management of Data (PACMMOD)
     pdf: https://arxiv.org/pdf/2502.01229
     code: https://github.com/DataManagementLab/lcm-eval
     image: ./assets/img/lcm_eval.png
     notes: Journal Paper
+  
+  - title: "GRACEFUL: A Learned Cost Estimator For UDFs"
+    authors: Johannes Wehrstein, Tiemo Bang, <strong>Roman Heinrich</strong>, Carsten Binnig
+    conference_short: ICDE '25
+    conference: 41th IEEE International Conference on Data Engineering, ICDE 2025, Hongkong SAR, China, May 19 - 23, 2024
+    code: https://github.com/DataManagementLab/Graceful.git
+    image: ./assets/img/graceful.jpg
+    notes: Conference Paper
     
   - title: "PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing"
     authors: Pratyush Agnihotri, Boris Koldehofe, <strong>Roman Heinrich</strong>, Carsten Binnig, Manisha Luthra
-    conference_short: TPCTC
+    conference_short: TPCTC '24
     conference: Proceedings of the the Performance Evaluation and Benchmarking, 16th TPC Technology Conference, Springer
     pdf: https://www.kom.tu-darmstadt.de/assets/522b98ed-1c90-4c9f-a14a-c4274aeb78cc/AKHBL24.pdf
     code: https://github.com/pratyushagnihotri/PDSPBench
     image: ./assets/img/pdspbench_logo.png
-    notes: Conference Presentation
+    notes: Conference Paper
 
   - title: "COSTREAM: Learned Cost Models for Operator Placement in Edge-Cloud Environments"
     authors: <strong>Roman Heinrich</strong>, Carsten Binnig, Harald Kornmayer, Manisha Luthra
-    conference_short: ICDE
+    conference_short: ICDE '24
     conference: 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, Netherlands, May 13 - 17, 2024
     pdf: https://ieeexplore.ieee.org/document/10598052
     code: https://github.com/DataManagementLab/costream-public
     image: ./assets/img/costream_paper.png
     slides: ./assets/files/COSTREAM_Talk.pdf
-    notes: Conference Presentation
+    notes: Conference Paper
 
   - title: "ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing"
     authors: Pratyush Agnihotri, Boris Koldehofe, Paul Stiegele, <strong>Roman Heinrich</strong>, Carsten Binnig, Manisha Luthra
-    conference_short: ICDE
+    conference_short: ICDE '24
     conference: 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, Netherlands, May 13 - 17, 2024
     pdf: https://ieeexplore.ieee.org/document/10598043/
     code: https://github.com/pratyushagnihotri/ZeroTune
     image: ./assets/img/zerotune_paper.jpg
-    notes: Conference Presentation
+    notes: Conference Paper
 
   - title: Zero-Shot Cost Estimation for Distributed Stream Processing
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Harald Kornmayer, Carsten Binnig
-    conference_short: DEBS
+    conference_short: DEBS '22
     conference: 16th ACM International Conference on Distributed and Event-based Systems, DEBS 2022, Copenhagen, Denmark, June 27 - 30, 2022
     pdf: https://dl.acm.org/doi/abs/10.1145/3524860.3539639
     image: ./assets/img/debs_paper.png
     slides: ./assets/files/Zero-Shot Cost Models for DSPS.pdf
-    notes: Conference Presentation
+    notes: Conference Paper
 
