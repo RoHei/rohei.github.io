@@ -11,7 +11,8 @@ main:
   - title: "GRACEFUL: A Learned Cost Estimator For UDFs"
     authors: Johannes Wehrstein, Tiemo Bang, <strong>Roman Heinrich</strong>, Carsten Binnig
     conference_short: ICDE '25
-    conference: 41th IEEE International Conference on Data Engineering, ICDE 2025, Hongkong SAR, China, May 19 - 23, 2024
+    conference: 41th IEEE International Conference on Data Engineering, ICDE 2025, Hongkong SAR, China, May 19 - 23, 2025
+    pdf: https://arxiv.org/pdf/2503.23863
     code: https://github.com/DataManagementLab/Graceful.git
     image: ./assets/img/graceful.jpg
     notes: Conference Paper
