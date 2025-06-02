@@ -1,4 +1,13 @@
 main:
+  - title: "Opening The Black Box: Explaining Learned Cost Models For Databases"
+    authors: <strong>Roman Heinrich</strong>, Oleksandr Havrylov, Manisha Luthra, Johannes Wehrstein, Carsten Binnig
+    conference_short: VLDB '25
+    conference: Proc. {VLDB} Endow.
+    #pdf: https://arxiv.org/pdf/2502.01229
+    code: https://github.com/DataManagementLab/demo-explain-lcms
+    image: ./assets/img/black_box.png
+    notes: Demo Paper
+
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
     conference_short: SIGMOD '25
@@ -45,7 +54,7 @@ main:
     image: ./assets/img/zerotune_paper.jpg
     notes: Conference Paper
 
-  - title: Zero-Shot Cost Estimation for Distributed Stream Processing
+  - title: "Zero-Shot Cost Estimation for Distributed Stream Processing"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Harald Kornmayer, Carsten Binnig
     conference_short: DEBS '22
     conference: 16th ACM International Conference on Distributed and Event-based Systems, DEBS 2022, Copenhagen, Denmark, June 27 - 30, 2022
