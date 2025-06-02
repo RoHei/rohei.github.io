@@ -2,7 +2,7 @@ main:
   - title: "Opening The Black Box: Explaining Learned Cost Models For Databases"
     authors: <strong>Roman Heinrich</strong>, Oleksandr Havrylov, Manisha Luthra, Johannes Wehrstein, Carsten Binnig
     conference_short: VLDB '25
-    conference: Proc. {VLDB} Endow.
+    conference: Proceedings of the VLDB Endowment
     #pdf: https://arxiv.org/pdf/2502.01229
     code: https://github.com/DataManagementLab/demo-explain-lcms
     image: ./assets/img/black_box.png
