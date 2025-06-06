@@ -7,6 +7,7 @@ main:
     code: https://github.com/DataManagementLab/demo-explain-lcms
     image: ./assets/img/black_box.png
     notes: Demo Paper
+    video: https://youtu.be/CvF0udNDGHE
 
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
@@ -16,6 +17,7 @@ main:
     code: https://github.com/DataManagementLab/lcm-eval
     image: ./assets/img/lcm_eval.png
     notes: Journal Paper
+    video: https://youtu.be/-LNi_18cMss
   
   - title: "GRACEFUL: A Learned Cost Estimator For UDFs"
     authors: Johannes Wehrstein, Tiemo Bang, <strong>Roman Heinrich</strong>, Carsten Binnig
