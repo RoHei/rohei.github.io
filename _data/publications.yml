@@ -13,12 +13,13 @@ main:
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
     conference_short: SIGMOD '25
     conference: Proceedings of the ACM on Management of Data (PACMMOD)
-    pdf: https://arxiv.org/pdf/2502.01229
+    pdf: https://dl.acm.org/doi/10.1145/3725309
     code: https://github.com/DataManagementLab/lcm-eval
     image: ./assets/img/lcm_eval.png
     notes: Journal Paper
     video: https://youtu.be/-LNi_18cMss
-  
+    slides: ./assets/files/lcm_talk.pdf
+
   - title: "GRACEFUL: A Learned Cost Estimator For UDFs"
     authors: Johannes Wehrstein, Tiemo Bang, <strong>Roman Heinrich</strong>, Carsten Binnig
     conference_short: ICDE '25
