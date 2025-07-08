@@ -9,6 +9,15 @@ main:
     notes: Demo Paper
     video: https://youtu.be/CvF0udNDGHE
 
+  - title: "JOB-Complex: A Challenging Benchmark for Traditional & Learned Query Optimization"
+    authors: Johannes Wehrstein, Timo Eckmann, <strong>Roman Heinrich</strong>, Carsten Binnig
+    conference_short: AIDB@VLDB '25
+    conference: Applied AI for Database Systems and Applications @ VLDB 2025
+    code: https://github.com/DataManagementLab/JOB-Complex
+    #pdf: https://arxiv.org/pdf/2502.01229
+    image: ./assets/img/job_complex.png
+    notes: Workshop Paper
+
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
     conference_short: SIGMOD '25
