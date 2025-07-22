@@ -17,6 +17,7 @@ main:
     pdf: https://arxiv.org/abs/2507.07471
     image: ./assets/img/job_complex.png
     notes: Workshop Paper
+    pdf: https://arxiv.org/pdf/2507.07471
 
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
