@@ -14,10 +14,9 @@ main:
     conference_short: AIDB@VLDB '25
     conference: Applied AI for Database Systems and Applications @ VLDB 2025
     code: https://github.com/DataManagementLab/JOB-Complex
-    pdf: https://arxiv.org/pdf/2507.07471
+    pdf: https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/AIDB/AIDB25_8.pdf
     image: ./assets/img/job_complex.png
     notes: Workshop Paper
-    pdf: https://arxiv.org/pdf/2507.07471
 
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
