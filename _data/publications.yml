@@ -33,7 +33,7 @@ main:
     authors: Johannes Wehrstein, Tiemo Bang, <strong>Roman Heinrich</strong>, Carsten Binnig
     conference_short: ICDE '25
     conference: 41th IEEE International Conference on Data Engineering, ICDE 2025, Hongkong SAR, China, May 19 - 23, 2025
-    pdf: https://arxiv.org/pdf/2503.23863
+    pdf: https://doi.org/10.1109/ICDE65448.2025.00185
     code: https://github.com/DataManagementLab/Graceful.git
     image: ./assets/img/graceful.jpg
     notes: Conference Paper
@@ -42,7 +42,7 @@ main:
     authors: Pratyush Agnihotri, Boris Koldehofe, <strong>Roman Heinrich</strong>, Carsten Binnig, Manisha Luthra
     conference_short: TPCTC '24
     conference: Proceedings of the the Performance Evaluation and Benchmarking, 16th TPC Technology Conference, Springer
-    pdf: https://www.kom.tu-darmstadt.de/assets/522b98ed-1c90-4c9f-a14a-c4274aeb78cc/AKHBL24.pdf
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-93858-0_1
     code: https://github.com/pratyushagnihotri/PDSPBench
     image: ./assets/img/pdspbench_logo.png
     notes: Conference Paper
@@ -51,7 +51,7 @@ main:
     authors: <strong>Roman Heinrich</strong>, Carsten Binnig, Harald Kornmayer, Manisha Luthra
     conference_short: ICDE '24
     conference: 40th IEEE International Conference on Data Engineering, ICDE 2024, Utrecht, Netherlands, May 13 - 17, 2024
-    pdf: https://ieeexplore.ieee.org/document/10598052
+    pdf: https://doi.org/10.1109/ICDE60146.2024.00015
     code: https://github.com/DataManagementLab/costream-public
     image: ./assets/img/costream_paper.png
     slides: ./assets/files/COSTREAM_Talk.pdf
