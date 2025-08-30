@@ -3,7 +3,7 @@ main:
     authors: <strong>Roman Heinrich</strong>, Oleksandr Havrylov, Manisha Luthra, Johannes Wehrstein, Carsten Binnig
     conference_short: VLDB '25
     conference: Proceedings of the VLDB Endowment
-    pdf: https://arxiv.org/pdf/2507.14495
+    pdf: https://www.vldb.org/pvldb/vol18/p5255-heinrich.pdf
     code: https://github.com/DataManagementLab/demo-explain-lcms
     image: ./assets/img/black_box.png
     notes: Demo Paper
