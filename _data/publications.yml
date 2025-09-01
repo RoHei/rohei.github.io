@@ -25,6 +25,8 @@ main:
     pdf: https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/AIDB/AIDB25_8.pdf
     image: ./assets/img/job_complex.png
     notes: Workshop Paper
+    slides: https://jwehrstein.github.io/files/presentations/2025_09_01%20AIDB%20JOB%20Complex.pdf
+
 
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
