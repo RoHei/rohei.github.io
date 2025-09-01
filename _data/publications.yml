@@ -47,6 +47,7 @@ main:
     code: https://github.com/DataManagementLab/Graceful.git
     image: ./assets/img/graceful.jpg
     notes: Conference Paper
+    slides: https://jwehrstein.github.io/files/presentations/2025_05_20%20ICDE%20Presentation%20Graceful.pdf
     
   - title: "PDSP-Bench: A Benchmarking System for Parallel and Distributed Stream Processing"
     authors: Pratyush Agnihotri, Boris Koldehofe, <strong>Roman Heinrich</strong>, Carsten Binnig, Manisha Luthra
