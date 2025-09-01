@@ -17,7 +17,7 @@ main:
     notes: Demo Paper
     video: https://youtu.be/CvF0udNDGHE
 
-  - title: "JOB-Complex: A Challenging Benchmark for Traditional & Learned Query Optimization <strong>(Best Paper Award)</strong>"
+  - title: "JOB-Complex: A Challenging Benchmark for Traditional & Learned Query Optimization <strong>🏆 Best Paper Award 🏆</strong>"
     authors: Johannes Wehrstein, Timo Eckmann, <strong>Roman Heinrich</strong>, Carsten Binnig
     conference_short: AIDB@VLDB '25
     conference: Applied AI for Database Systems and Applications @ VLDB 2025
