@@ -1,4 +1,12 @@
 main:
+  - title: "Learned Cost Models for Query Optimization: From Batch to Streaming Systems" 
+    authors: <strong>Roman Heinrich</strong>, Xiao Li, Manisha Luthra, Zoi Kaoudi
+    conference_short: VLDB '25
+    conference: Proceedings of the VLDB Endowment
+    pdf: https://www.vldb.org/pvldb/vol18/p5482-li.pdf
+    image: ./assets/img/lcm_tutorial.png
+    notes: Tutorial Paper
+
   - title: "Opening The Black Box: Explaining Learned Cost Models For Databases"
     authors: <strong>Roman Heinrich</strong>, Oleksandr Havrylov, Manisha Luthra, Johannes Wehrstein, Carsten Binnig
     conference_short: VLDB '25
@@ -9,7 +17,7 @@ main:
     notes: Demo Paper
     video: https://youtu.be/CvF0udNDGHE
 
-  - title: "JOB-Complex: A Challenging Benchmark for Traditional & Learned Query Optimization"
+  - title: "JOB-Complex: A Challenging Benchmark for Traditional & Learned Query Optimization <strong>(Best Paper Award)</strong>"
     authors: Johannes Wehrstein, Timo Eckmann, <strong>Roman Heinrich</strong>, Carsten Binnig
     conference_short: AIDB@VLDB '25
     conference: Applied AI for Database Systems and Applications @ VLDB 2025
