@@ -17,6 +17,7 @@ main:
     image: ./assets/img/black_box.png
     notes: Demo Paper
     video: https://youtu.be/CvF0udNDGHE
+    poster: ./assets/files/VLDB_demo_poster.pdf
 
   - title: "JOB-Complex: A Challenging Benchmark for Traditional & Learned Query Optimization <strong>🏆 Best Paper Award 🏆</strong>"
     authors: Johannes Wehrstein, Timo Eckmann, <strong>Roman Heinrich</strong>, Carsten Binnig
@@ -28,7 +29,6 @@ main:
     notes: Workshop Paper
     slides: https://jwehrstein.github.io/files/presentations/2025_09_01%20AIDB%20JOB%20Complex.pdf
 
-
   - title: "How Good Are Learned Cost Models, Really? Insights From Query Optimization Tasks"
     authors: <strong>Roman Heinrich</strong>, Manisha Luthra, Johannes Wehrstein, Harald Kornmayer, Carsten Binnig
     conference_short: SIGMOD '25
@@ -39,6 +39,7 @@ main:
     notes: Journal Paper
     video: https://youtu.be/-LNi_18cMss
     slides: ./assets/files/lcm_talk.pdf
+    poster: ./assets/files/lcm_eval_poster_vertical.pdf
 
   - title: "GRACEFUL: A Learned Cost Estimator For UDFs"
     authors: Johannes Wehrstein, Tiemo Bang, <strong>Roman Heinrich</strong>, Carsten Binnig
@@ -68,6 +69,7 @@ main:
     image: ./assets/img/costream_paper.png
     slides: ./assets/files/COSTREAM_Talk.pdf
     notes: Conference Paper
+    poster: ./assets/files/COSTREAM_Poster.pdf
 
   - title: "ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing"
     authors: Pratyush Agnihotri, Boris Koldehofe, Paul Stiegele, <strong>Roman Heinrich</strong>, Carsten Binnig, Manisha Luthra
@@ -87,4 +89,5 @@ main:
     slides: ./assets/files/Zero-Shot Cost Models for DSPS.pdf
     notes: Conference Paper
     video: https://www.youtube.com/watch?v=AeqUk78-o-w
+    poster: ./assets/files/COSTREAM_Poster.pdf
 
