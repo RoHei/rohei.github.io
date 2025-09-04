@@ -6,6 +6,7 @@ main:
     pdf: https://www.vldb.org/pvldb/vol18/p5482-li.pdf
     image: ./assets/img/lcm_tutorial.png
     notes: Tutorial Paper
+    slides: ./assets/files/VLDB-tutorial-full.pdf
 
   - title: "Opening The Black Box: Explaining Learned Cost Models For Databases"
     authors: <strong>Roman Heinrich</strong>, Oleksandr Havrylov, Manisha Luthra, Johannes Wehrstein, Carsten Binnig
