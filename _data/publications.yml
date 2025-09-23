@@ -1,4 +1,10 @@
 main:
+  - title: "Advancing Learned Cost Models For Modern Data Systems"
+    authors: <strong>Roman Heinrich</strong>
+    pdf: https://doi.org/10.26083/tuprints-00031395
+    notes: PhD Dissertation
+    image: ./assets/img/dissertation.png
+
   - title: "Learned Cost Models for Query Optimization: From Batch to Streaming Systems" 
     authors: <strong>Roman Heinrich</strong>, Xiao Li, Manisha Luthra, Zoi Kaoudi
     conference_short: VLDB '25
