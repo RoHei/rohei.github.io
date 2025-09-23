@@ -2,6 +2,7 @@ main:
   - title: "Advancing Learned Cost Models For Modern Data Systems"
     authors: <strong>Roman Heinrich</strong>
     pdf: https://doi.org/10.26083/tuprints-00031395
+    conference: Technische Universität Darmstadt
     notes: PhD Dissertation
     image: ./assets/img/dissertation.png
 
